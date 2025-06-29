@@ -1,35 +1,73 @@
-TravelTrust-Women-Safe-Travels-Review-Site-Day-6
-This repository holds the codebase for the TravelTrust Women's Safe Travels Review Site, a platform designed to help women travel more safely and confidently. The project, named "Nightingale", is a solo female travel safety platform where users can discover safe venues, connect with verified female travelers, and share their experiences to help other women explore the world securely.
+# Welcome to your Lovable project
 
-This repository contains three different implementations of the front-end, each built with a different no-code/low-code tool:
+## Project info
 
-Lovable: A front-end built using the Lovable platform.
+**URL**: https://lovable.dev/projects/25f9059c-3b40-4324-b69a-4c501e8dc2fd
 
-Builder.io-no-code-one-shot-build: A front-end built using Builder.io.
+## How can I edit this code?
 
-VO-no-code-one-shot-build: A front-end built using V0.
+There are several ways of editing your application.
 
-About Nightingale
-Nightingale is a platform built by women, for women, to address the unique challenges they face while traveling alone.
+**Use Lovable**
 
-Key Features:
-Safety-First Reviews: Access detailed safety scores and reviews from verified female travelers covering aspects like neighborhoods (day and night), accommodation, and transportation.
+Simply visit the [Lovable Project](https://lovable.dev/projects/25f9059c-3b40-4324-b69a-4c501e8dc2fd) and start prompting.
 
-Trusted Community: Connect with a community of verified women travelers who share and understand unique safety concerns and experiences.
+Changes made via Lovable will be committed automatically to this repo.
 
-Interactive Maps: Explore safe venues, routes, and neighborhoods using a color-coded safety mapping system.
+**Use your preferred IDE**
 
-Verified Users: A verification process is in place to ensure authentic reviews from real women and to protect the community from fake or malicious content.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-Technologies Used (Lovable version)
-The Lovable version of the front-end is built with the following technologies:
+The only requirement is having Node.js & npm installed - [install with nvm](httpshttps://github.com/nvm-sh/nvm#installing-and-updating)
 
-Vite
+Follow these steps:
 
-TypeScript
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-React
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-shadcn-ui
+# Step 3: Install the necessary dependencies.
+npm i
 
-Tailwind CSS
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/25f9059c-3b40-4324-b69a-4c501e8dc2fd) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
